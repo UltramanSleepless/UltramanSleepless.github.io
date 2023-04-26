@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: UltramanSleepless
+description: A NLPer.
 url: https://UltramanSleepless.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Shuaishuai Zu
   url: https://github.com/UltramanSleepless/
   email: zushuaishuai@gmail.com
